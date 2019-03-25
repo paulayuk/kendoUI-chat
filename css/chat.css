@@ -1,0 +1,8 @@
+
+html .k-chat .k-card-deck .k-card {
+    flex-basis: 230px;
+}
+.k-card > img.k-card-image {
+    height: 115px;
+    display: block;
+}
